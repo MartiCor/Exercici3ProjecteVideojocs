@@ -16,10 +16,10 @@
     .punts { font-size: 1.3em; font-weight: bold; margin-bottom: 10px; }
     .info { font-size: 0.85em; color: #bbb; margin-top: 10px; line-height: 1.5; }
     
-    /* Colores dinámicos de puntuación */
-    .excellent { color: #6ab04c; } /* Verde */
-    .be { color: #f9ca24; }        /* Amarillo */
-    .regular { color: #e67e22; }   /* Naranja */
+
+    .excellent { color: #6ab04c; } 
+    .be { color: #f9ca24; }     
+    .regular { color: #e67e22; }  
     .dolent { color: #eb4d4b; }
   </style>
 </head>
