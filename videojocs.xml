@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="videojocs.xsl"?>
+<videojocs>
+  <joc>
+    <titol>The Legend of Zelda: Tears of the Kingdom</titol>
+    <plataforma>Nintendo Switch</plataforma>
+    <genere>Aventura</genere>
+    <any>2023</any>
+    <puntuacio>9.6</puntuacio>
+    <preu>69.99</preu>
+  </joc>
+  <joc>
+    <titol>Cyberpunk 2077</titol>
+    <plataforma>PC</plataforma>
+    <genere>RPG</genere>
+    <any>2020</any>
+    <puntuacio>7.5</puntuacio>
+    <preu>29.99</preu>
+  </joc>
+  <joc>
+    <titol>The Lord of the Rings: Gollum</titol>
+    <plataforma>PlayStation 5</plataforma>
+    <genere>Aventura</genere>
+    <any>2023</any>
+    <puntuacio>4.2</puntuacio>
+    <preu>19.99</preu>
+  </joc>
+  <joc>
+    <titol>Halo Infinite</titol>
+    <plataforma>Xbox Series X</plataforma>
+    <genere>Acció</genere>
+    <any>2021</any>
+    <puntuacio>8.0</puntuacio>
+    <preu>59.99</preu>
+  </joc>
+  <joc>
+    <titol>Genshin Impact</titol>
+    <plataforma>Mòbil</plataforma>
+    <genere>RPG</genere>
+    <any>2020</any>
+    <puntuacio>6.5</puntuacio>
+    <preu>0.00</preu>
+  </joc>
+</videojocs>
